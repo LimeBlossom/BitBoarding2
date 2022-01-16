@@ -1,0 +1,109 @@
+{
+    "name": "HoverboardControls",
+    "maps": [
+        {
+            "name": "default",
+            "id": "74a71d76-5bd8-4b4a-8d87-6265199a9e0b",
+            "actions": [
+                {
+                    "name": "TurnLeft",
+                    "type": "PassThrough",
+                    "id": "e6f45261-e963-4f05-984c-09782f3febbc",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "Press(behavior=2)"
+                },
+                {
+                    "name": "TurnRight",
+                    "type": "PassThrough",
+                    "id": "3d4c312e-a6c5-4e0e-8fc2-0330c123e4c4",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "Press(behavior=2)"
+                },
+                {
+                    "name": "NoseDown",
+                    "type": "PassThrough",
+                    "id": "3b852e96-466f-4aaf-8c75-512a6b799c80",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "Press(behavior=2)"
+                },
+                {
+                    "name": "NoseUp",
+                    "type": "PassThrough",
+                    "id": "d4b2d6d2-c13c-47c1-9752-40c151201177",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "Press(behavior=2)"
+                },
+                {
+                    "name": "Boost",
+                    "type": "PassThrough",
+                    "id": "b692bf07-55c0-4b73-86b7-774ef12df49e",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "Press(behavior=2)"
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "fe2f2c12-7a17-4121-837b-68388625aebe",
+                    "path": "<Keyboard>/a",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "TurnLeft",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "884d8e78-e222-4b00-90f7-da4901d091ef",
+                    "path": "<Keyboard>/d",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "TurnRight",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c1e7c5f3-0309-468d-a625-9ba39b7379e9",
+                    "path": "<Keyboard>/w",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "NoseDown",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "1be5a884-64b8-4054-a68d-a89087712a7b",
+                    "path": "<Keyboard>/s",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "NoseUp",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "ab9a7156-6a68-4838-81e1-8db1fc7b7202",
+                    "path": "<Keyboard>/leftShift",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Boost",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
