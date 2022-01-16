@@ -1,0 +1,3 @@
+[submodule "BitBoarding2/Assets/Scripts/ModularUnityScripts"]
+	path = BitBoarding2/Assets/Scripts/ModularUnityScripts
+	url = https://github.com/LimeBlossom/ModularUnityScripts.git
