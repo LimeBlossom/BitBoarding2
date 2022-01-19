@@ -58,3 +58,9 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# Downloaded asset pack
+BitBoarding2/Assets/Octave3D World Builder.meta
+BitBoarding2/Assets/Octave3D World Builder/
+BitBoarding2/Assets/Rocks and Boulders 2.meta
+BitBoarding2/Assets/Rocks and Boulders 2/
+
