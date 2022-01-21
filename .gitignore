@@ -9,6 +9,13 @@ BitBoarding2/[Bb]uild/
 BitBoarding2/[Bb]uilds/
 BitBoarding2/[Ll]ogs/
 BitBoarding2/[Mm]emoryCaptures/
+BitBoarding2Re/[Ll]ibrary/
+BitBoarding2Re/[Tt]emp/
+BitBoarding2Re/[Oo]bj/
+BitBoarding2Re/[Bb]uild/
+BitBoarding2Re/[Bb]uilds/
+BitBoarding2Re/[Ll]ogs/
+BitBoarding2Re/[Mm]emoryCaptures/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
@@ -63,4 +70,9 @@ BitBoarding2/Assets/Octave3D World Builder.meta
 BitBoarding2/Assets/Octave3D World Builder/
 BitBoarding2/Assets/Rocks and Boulders 2.meta
 BitBoarding2/Assets/Rocks and Boulders 2/
+
+BitBoarding2Re/Assets/Octave3D World Builder.meta
+BitBoarding2Re/Assets/Octave3D World Builder/
+BitBoarding2Re/Assets/Rocks and Boulders 2.meta
+BitBoarding2Re/Assets/Rocks and Boulders 2/
 
