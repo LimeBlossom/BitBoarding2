@@ -70,5 +70,7 @@ public class HoverboardVRController : MonoBehaviour
         {
             _rb.AddForce(transform.forward * crouchDistance * acceleration, ForceMode.Impulse);
         }
+
+        
     }
 }

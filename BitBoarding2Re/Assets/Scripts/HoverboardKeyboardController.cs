@@ -7,10 +7,10 @@ using System;
 
 public class HoverboardKeyboardController : MonoBehaviour
 {
-    [SerializeField] private float turnLeftSpeed = .1f;
-    [SerializeField] private float turnRightSpeed = .1f;
-    [SerializeField] private float forwardSpeed = .1f;
-    [SerializeField] private float brakeSpeed = .1f;
+    //[SerializeField] private float turnLeftSpeed = .1f;
+    //[SerializeField] private float turnRightSpeed = .1f;
+    //[SerializeField] private float forwardSpeed = .1f;
+    //[SerializeField] private float brakeSpeed = .1f;
 
     [SerializeField] private float acceleration = 1f;
     [SerializeField] private float maxSpeed = 2f;

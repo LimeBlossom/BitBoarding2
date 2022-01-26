@@ -242,7 +242,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &7141116931648366358
 Transform:
   m_ObjectHideFlags: 0
@@ -277,7 +277,7 @@ MonoBehaviour:
   m_EndAngleFade: 180
   m_UVScale: {x: 1, y: 1}
   m_UVBias: {x: 0, y: 0}
-  m_ScaleMode: 0
+  m_ScaleMode: 1
   m_Offset: {x: 0, y: 0, z: 0.17698482}
   m_Size: {x: 0.3, y: 0.2, z: 0.08931941}
   m_FadeFactor: 1

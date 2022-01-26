@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 07ae7c59a96129d449bf6d2a1140b98c, type: 3}
   m_Name: EquipSelfieStick
   m_EditorClassIdentifier: 
-  eventsToCall: []
+  eventsToCall:
+  - {fileID: 11400000, guid: 7971fb37ad0de1e429358fdc710996c8, type: 2}
   phrases:
   - Equip selfie stick
